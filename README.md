@@ -1,9 +1,9 @@
 # faster_rcnn_demo
 
 ## Dependencies
-Tensorflow Object Detection API
-
+1. Tensorflow Object Detection API
+2. Flask
 
 ## Notes
-Install dependencies.
-Edit config.py file before start.
+1. Install dependencies.
+2. Edit config.py file before start.
