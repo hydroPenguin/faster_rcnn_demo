@@ -1,7 +1,7 @@
 # faster_rcnn_demo
 
 ## Dependencies
-1. Tensorflow Object Detection API
+1. [Tensorflow Object Detection API](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md)
 2. Flask
 
 ## Notes
